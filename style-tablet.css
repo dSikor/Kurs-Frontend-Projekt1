@@ -1,0 +1,17 @@
+@media only screen and (min-width: 720px){
+.container {
+	width:680px;
+}
+.box {	
+  width: 38%;
+}
+.content_footer_page {	        
+        flex-direction: row;
+       	justify-content: space-between;
+       	align-items: none;							
+}
+#text_footer {		
+		margin-bottom: none;	
+}
+
+}

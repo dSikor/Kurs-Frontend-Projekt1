@@ -1,0 +1,52 @@
+@media only screen and (min-width: 960px){
+
+/*Website logo and navigation styles*/
+.container {
+	width:920px;
+}
+.nav--buttons a {
+	display:inline;
+}
+.button-nav-green {
+	display: inline;
+}
+.button-nav-green:hover {
+	background-color: #3e8e41;
+}
+.nav--buttons img {
+	display: none;
+}
+/* Header styles*/
+header {
+    height:550px;
+    margin-bottom: 100px;
+}
+.contaner_header {		
+	align-items:flex-start;
+}
+.button_header_bokses {
+	padding: 10px 15px;
+}
+/*Bokses styles*/
+section {
+	margin: 30px 0px;
+}
+.box {	
+  width: 30.0%;
+}
+.box_text {
+	margin: 30px 0px;
+}
+/*Content about more courses*/
+.content_info_and_button {
+	margin-top: 40px;
+	margin-bottom: 100px;
+}
+.button_info {
+	margin-top: 20px;
+}
+/*Footer page*/
+.content_footer_page {				
+        height: 180px;						
+}
+}

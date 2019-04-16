@@ -1,0 +1,10 @@
+/*Global styles*/
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 48px;
+}
+.container {
+	margin: 0 auto;
+	width: 100%;
+	
+}
